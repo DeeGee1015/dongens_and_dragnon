@@ -1,6 +1,6 @@
 
-.info1 h1, p {
-  color: whitesmoke;
+.info1 h1, .info1 p {
+  color: red;
 }
 
 .a-header {
@@ -11,11 +11,37 @@
 .main-bottom {
   margin-top: 21%;
     background: rgba(0, 0, 0, 0);
-    border-color: #fff;
+    border-color: red;
     border: 2px solid #fff;
     color: #fff;
     padding:1% 39%;
     font-weight: 600;
     letter-spacing: 2px;
     text-transform: uppercase;
+}
+
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+.deep {
+background-image: url(https://images7.alphacoders.com/491/thumb-1920-491669.jpg);
+background-size: cover;
+width: 1256px;
+height: 401px;
+}
+.center {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: blue;
+  font-size: 20px
+
+}
+
+.main-img {
+  width: 1000px;
+  height: 300px;
 }
