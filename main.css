@@ -1,8 +1,4 @@
 
-.info1 h1, .info1 p {
-  color: red;
-}
-
 .a-header {
   letter-spacing: 5px;
   font-size: 25px;
@@ -37,8 +33,6 @@ height: 401px;
   left: 50%;
   transform: translate(-50%, -50%);
   color: blue;
-  font-size: 20px
-
 }
 
 .main-img {
