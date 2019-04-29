@@ -2,11 +2,21 @@ body {
 
 }
 
-.dnd1 {
-  width: 100%;
-  height: 500px;
+.title {
+  background-image: url('https://d3idt3y1vhsqn9.cloudfront.net/wp-content/uploads/2013/04/DnDNext_1920x1080_Wallpaper.jpg');
+  background-size: cover;
+  height: 600px;
 }
 
-.LA {
+.text {
   text-align: center;
+  color: white;
+  padding-top: 350px;  
+}
+
+.ghost {
+  background-image: url('http://dnd.wizards.com/sites/default/files/media/styles/story_banner/public/images/head-banner/Saltmarsh_DnD_Articles_Header-Image.jpg?itok=algGvvNr');
+  width: 500px;
+  height: 100px;
+  background-size: contain;
 }
