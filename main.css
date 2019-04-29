@@ -10,14 +10,14 @@
 
 .main-bottom {
   margin-top: 21%;
-    background: rgba(0, 0, 0, 0);
+    background: black;
     border-color: red;
     border: 2px solid #fff;
     color: #fff;
-    padding:1% 39%;
-    font-weight: 600;
+    padding:15px 30px;
     letter-spacing: 2px;
     text-transform: uppercase;
+    line-height: 3rem;
 }
 
 .container {
