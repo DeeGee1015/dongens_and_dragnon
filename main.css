@@ -51,13 +51,13 @@ p {
 .grid {
   width: 500px;
   height: 500px;
-  display: grid;
+  display: inline-grid;
 }
 
 .grid div:nth-child(1){
-  background-image: url("https://images3.alphacoders.com/107/thumb-1920-107275.jpg");
+  background-image: url("https://i.pinimg.com/originals/4f/7a/e0/4f7ae0c955c0578bba29812889ec4d18.jpg");
 }
 
 .grid div:nth-child(2){
-  background-image: url("http://realseolinks.com/img/oT9fYKquoTkjLKOypaZhL29gY3qjYJAioaEyoaDiqKOfo2Sxpl8lZQR3YmN0Y0ElLJqioaAfLKyypv1LnJ4gJzuuol1GpTkup2tgDKW0YHkyLJq1MF1iMv1ZMJqyozEmYHSlqUqipzfgI2SfoUOupTIlYJkioP5dpTp/dragonslayer-xin-zhao-lol-wallpapers.jpg");
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Caravela_de_armada_of_Joao_Serrao.jpg/250px-Caravela_de_armada_of_Joao_Serrao.jpg");
 }
