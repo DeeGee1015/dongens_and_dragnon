@@ -1,0 +1,10 @@
+body {
+  margin: 12;
+  font-family: fantasy;
+  color: grey;
+}
+
+#navbar ul, li {
+  width 200%;
+  display: inline;
+}
