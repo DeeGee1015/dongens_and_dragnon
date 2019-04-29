@@ -1,3 +1,4 @@
+
 body {
   margin: 12;
   font-family: fantasy;
@@ -19,3 +20,79 @@ body {
   display: inline-block;
   font-size: 16px;
 }
+
+
+body {
+
+}
+
+.title {
+  background-image: url('https://d3idt3y1vhsqn9.cloudfront.net/wp-content/uploads/2013/04/DnDNext_1920x1080_Wallpaper.jpg');
+  background-size: cover;
+  height: 600px;
+}
+
+.text {
+  text-align: center;
+  color: white;
+  padding-top: 350px;
+}
+
+.ghost {
+  background-image: url('http://dnd.wizards.com/sites/default/files/media/styles/story_banner/public/images/head-banner/Saltmarsh_DnD_Articles_Header-Image.jpg?itok=algGvvNr');
+  width: 400px;
+  height: 400px;
+  background-position: 60% 30%;
+  background-size: cover;
+  text-align: center;
+  color: white;
+}
+
+.info1 h1, .info1 p {
+  color: red;
+}
+
+.a-header {
+  letter-spacing: 5px;
+  font-size: 25px;
+}
+
+.main-bottom {
+  margin-top: 21%;
+    background: black;
+    border-color: red;
+    border: 2px solid #fff;
+    color: #fff;
+    padding:15px 30px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    line-height: 3rem;
+}
+
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+.deep {
+background-image: url(https://images7.alphacoders.com/491/thumb-1920-491669.jpg);
+background-size: cover;
+width: 1256px;
+height: 401px;
+}
+.center {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: blue;
+  font-size: 20px
+
+}
+
+.main-img {
+  width: 1000px;
+  height: 300px;
+}
+
+
