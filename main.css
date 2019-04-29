@@ -5,7 +5,7 @@
 }
 
 .main-bottom {
-  margin-top: 21%;
+  margin-top: 10%;
     background: black;
     border-color: red;
     border: 2px solid #fff;
@@ -16,11 +16,15 @@
     line-height: 3rem;
 }
 
+.main-bottom:hover {
+  background-color: red;
+}
+
 .container {
   position: relative;
   text-align: center;
-  color: white;
 }
+
 .deep {
 background-image: url(https://images7.alphacoders.com/491/thumb-1920-491669.jpg);
 background-size: cover;
@@ -32,10 +36,14 @@ height: 401px;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  color: blue;
+  color: darkblue;
 }
 
 .main-img {
   width: 1000px;
   height: 300px;
+}
+
+p {
+  font-size: 20px;
 }
