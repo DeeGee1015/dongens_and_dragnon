@@ -1,0 +1,16 @@
+.info1 {
+  background-image: url("https://images7.alphacoders.com/491/thumb-1920-491669.jpg");
+  background-size: cover;
+}
+
+.info1 h1, p {
+  color: whitesmoke;
+}
+
+.a-header {
+  letter-spacing: 5px;
+  font-size: 25px;
+}
+
+
+ 
