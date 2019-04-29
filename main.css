@@ -11,12 +11,15 @@ body {
 .text {
   text-align: center;
   color: white;
-  padding-top: 350px;  
+  padding-top: 350px;
 }
 
 .ghost {
   background-image: url('http://dnd.wizards.com/sites/default/files/media/styles/story_banner/public/images/head-banner/Saltmarsh_DnD_Articles_Header-Image.jpg?itok=algGvvNr');
-  width: 500px;
-  height: 100px;
-  background-size: contain;
+  width: 400px;
+  height: 400px;
+  background-position: 60% 30%;
+  background-size: cover;
+  text-align: center;
+  color: white;
 }
