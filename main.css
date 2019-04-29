@@ -17,12 +17,13 @@ body {
 
 .ghost {
   background-image: url('http://dnd.wizards.com/sites/default/files/media/styles/story_banner/public/images/head-banner/Saltmarsh_DnD_Articles_Header-Image.jpg?itok=algGvvNr');
-  width: 400px;
+  width: 600px;
   height: 400px;
-  background-position: 60% 30%;
+  background-position: 74% 30%;
   background-size: cover;
   text-align: center;
   color: white;
+  margin-left: 10%;
 }
 
 .inc {
@@ -31,6 +32,7 @@ body {
   height: 250px;
   background-position: 90% 30%;
   background-size: cover;
+  margin-left: 59%;
 }
 
 .water {
@@ -39,6 +41,7 @@ body {
   height: 250px;
   background-position: 60% 30%;
   background-size: cover;
+  margin-left: 59%;
 }
 
 .drag {
@@ -47,6 +50,7 @@ body {
   height: 250px;
   background-position: 30% 30%;
   background-size: cover;
+  margin-left: 59%;
 }
 
 .guild {
@@ -55,6 +59,7 @@ body {
   height: 250px;
   background-position: 50%;
   background-size: cover;
+  margin-left: 59%;
 }
 
 .mage {
@@ -63,4 +68,5 @@ body {
   height: 250px;
   background-position: 60% 30%;
   background-size: cover;
+  margin-left: 59%;
 }
