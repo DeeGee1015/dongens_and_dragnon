@@ -1,5 +1,28 @@
 
 body {
+  margin: 12;
+  font-family: fantasy;
+  color: grey;
+}
+
+ ul, li {
+  width: 1000%;
+  display: inline;
+}
+
+#navbar ul li a {
+  background-color: grey;
+  border: none;
+  color: black;
+  padding: 25px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+
+body {
 
 }
 
@@ -76,3 +99,7 @@ body {
   margin-left: 59%;
   color: white;
 }
+
+
+
+
