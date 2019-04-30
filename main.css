@@ -1,4 +1,44 @@
 
+.a-header {
+  letter-spacing: 5px;
+  font-size: 25px;
+}
+
+.main-bottom {
+  margin-top: 10%;
+    background: black;
+    border-color: red;
+    border: 2px solid #fff;
+    color: #fff;
+    padding:15px 30px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    line-height: 3rem;
+}
+
+/* Hovers changes */
+
+.main-bottom:hover {
+  background-color: black;
+}
+
+.container {
+  position: relative;
+  text-align: center;
+}
+
+.deep {
+background-image: url(https://images7.alphacoders.com/491/thumb-1920-491669.jpg);
+background-size: cover;
+width: 1256px;
+height: 401px;
+}
+.center {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: darkblue;
 body {
   margin: 12;
   font-family: fantasy;
@@ -98,4 +138,22 @@ body {
   background-size: cover;
   margin-left: 59%;
   color: white;
+}
+
+p {
+  font-size: 20px;
+}
+
+.grid {
+  width: 500px;
+  height: 500px;
+  display: inline-grid;
+}
+
+.grid div:nth-child(1){
+  background-image: url("https://i.pinimg.com/originals/4f/7a/e0/4f7ae0c955c0578bba29812889ec4d18.jpg");
+}
+
+.grid div:nth-child(2){
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Caravela_de_armada_of_Joao_Serrao.jpg/250px-Caravela_de_armada_of_Joao_Serrao.jpg");
 }
