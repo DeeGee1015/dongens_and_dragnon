@@ -16,6 +16,8 @@
     line-height: 3rem;
 }
 
+/* Hovers changes */
+
 .main-bottom:hover {
   background-color: black;
 }
