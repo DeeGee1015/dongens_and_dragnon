@@ -39,11 +39,105 @@ height: 401px;
   left: 50%;
   transform: translate(-50%, -50%);
   color: darkblue;
+body {
+  margin: 12;
+  font-family: fantasy;
+  color: grey;
 }
 
-.main-img {
-  width: 1000px;
-  height: 300px;
+ ul, li {
+  width: 1000%;
+  display: inline;
+}
+
+#navbar ul li a {
+  background-color: grey;
+  border: none;
+  color: black;
+  padding: 25px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+
+body {
+
+}
+
+.title {
+  background-image: url('https://d3idt3y1vhsqn9.cloudfront.net/wp-content/uploads/2013/04/DnDNext_1920x1080_Wallpaper.jpg');
+  background-size: cover;
+  height: 600px;
+}
+
+.text {
+  text-align: center;
+  color: white;
+  padding-top: 350px;
+  text-transform: uppercase;
+}
+
+.ghost {
+  background-image: url('http://dnd.wizards.com/sites/default/files/media/styles/story_banner/public/images/head-banner/Saltmarsh_DnD_Articles_Header-Image.jpg?itok=algGvvNr');
+  width: 600px;
+  height: 400px;
+  background-position: 74% 30%;
+  background-size: cover;
+  text-align: center;
+  color: white;
+  margin-left: 10%;
+}
+
+.inc {
+  background-image: url('http://cdn0.vox-cdn.com/assets/4729076/dd4.jpg');
+  width: 250px;
+  height: 250px;
+  background-position: 90% 30%;
+  background-size: cover;
+  margin-left: 59%;
+  color: white;
+}
+
+.water {
+  background-image: url('https://orig00.deviantart.net/1f54/f/2015/345/a/4/black_dragon_v2_by_sandara-d9jtdg8.jpg');
+  width: 250px;
+  height: 250px;
+  background-position: 60% 30%;
+  background-size: cover;
+  margin-left: 59%;
+  color: white;
+}
+
+.drag {
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxT1AOBEtOjcO509jee89GTU4Kezu4Lz6xf9zL2dsM7S3LHx-WhA');
+  width: 250px;
+  height: 250px;
+  background-position: 30% 30%;
+  background-size: cover;
+  margin-left: 59%;
+  color: white;
+}
+/* this one is nice too */
+.guild {
+  background-image: url('https://i.pinimg.com/originals/7f/91/cb/7f91cb9d0bbfe972819d807a73de1b2e.jpg');
+  width: 250px;
+  height: 250px;
+  background-position: 50%;
+  background-size: cover;
+  margin-left: 59%;
+  color: white;
+}
+/* i like this background */
+.mage {
+  background-image: url('https://vignette.wikia.nocookie.net/steamtradingcards/images/f/f3/Bit_Dungeon_II_Artwork_5.jpg/revision/latest?cb=20151227064119');
+  width: 250px;
+  height: 250px;
+  background-position: 60% 30%;
+  background-size: cover;
+  margin-left: 59%;
+  color: white;
 }
 
 p {
